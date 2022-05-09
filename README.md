@@ -52,5 +52,10 @@ Nazywam się Dominika Kawalec. Ukończyłam studia magisterskie o profilu Finans
 - [Mr Buggy2](http://demo.mrbuggy2.testarena.pl/)
 - [Testing Challenges](http://testingchallenges.thetestingmap.org/)
 # Moje przypadki testowe
+- [Przypadki testowe](https://drive.google.com/drive/folders/1Huq-IyWar_Xq_fUDzmIs2Q_PfjaXgdfV?usp=sharing)
+# Moje egzekucje testów
+- [Egzekucje testów](https://drive.google.com/drive/folders/1rhRpqbNAegf91ek30ORVyxIC_94aZnbP?usp=sharing)
 # Moje zgłoszenia błędów
+- [Zgłoszenia błędów](https://drive.google.com/drive/folders/1BOCt0NTTuaK6E6TQXPtvB9_0LamY2RoP?usp=sharing)
 # Moje opracowane diagramy
+- [Diagramy](https://drive.google.com/drive/folders/1Mvzg3GerKfv9JJ6q4YQ1-0ZsjNkcfXPI?usp=sharing)
