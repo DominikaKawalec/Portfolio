@@ -42,15 +42,15 @@ Nazywam się Dominika Kawalec. Ukończyłam studia magisterskie o profilu Finans
 - LabMasters - Wprowadzenie do baz danych i języka SQL
 - LabMasters - Triki w Excelu
 # Polecane blogi
-- testerzy.pl
-- remigiuszbednarczyk.pl
+- [testerzy.pl](https://testerzy.pl/)
+- [remigiuszbednarczyk.pl](https://remigiuszbednarczyk.pl)
 # Grupy na Facebooku
 - Testowanie oprogramowania
 - Tester oprogramowania - wsparcie na starcie
 - ISTQB - egzaminy, pytania, testy
 # Aplikacje do ćwiczenia testowania
-- Mr Buggy2
-- Testing Challenges
+- [Mr Buggy2](http://demo.mrbuggy2.testarena.pl/)
+- [Testing Challenges](http://testingchallenges.thetestingmap.org/)
 # Moje przypadki testowe
 # Moje zgłoszenia błędów
 # Moje opracowane diagramy
