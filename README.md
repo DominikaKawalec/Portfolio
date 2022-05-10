@@ -14,6 +14,7 @@ Nazywam się Dominika Kawalec. Ukończyłam studia magisterskie o profilu *Finan
 - MS Excel - arkusz kalkulacyjny
 - Solver - dodatek do MS Excel umożliwiający przeprowadzenie analizy warunkowej
 # Umiejętności techniczne
+- Crowdtesting - wyszukiwanie i zgłaszanie defektów w aplikacjach webowych
 - Tworzenie scenariuszy i przypadków testowych na podstawie wymagań
 - Wykonywanie testów w oparciu o scenariusze i przypadki testowe
 - Wykonywanie testów eksploracyjnych
@@ -24,7 +25,7 @@ Nazywam się Dominika Kawalec. Ukończyłam studia magisterskie o profilu *Finan
 - Podstawowa wiedza z zakresu działania Git i serwisu Github
 - Tworzenie diagramów
 - SCRUM
-- Obsługa MS Excel (tworzenie podstawowych formuł, formatowanie danych, analiza danych, tworzenie tabel przestawnych)
+- Obsługa MS Excel - tworzenie podstawowych formuł, formatowanie danych, analiza danych, tworzenie tabel przestawnych
 # Kursy
 - Szkolenie “Zostań Testerem” organizowane przez Sii Training Practice
 # Certyfikaty
@@ -44,6 +45,8 @@ Nazywam się Dominika Kawalec. Ukończyłam studia magisterskie o profilu *Finan
 # Polecane blogi
 - [testerzy.pl](https://testerzy.pl/)
 - [remigiuszbednarczyk.pl](https://remigiuszbednarczyk.pl)
+- [pwicherski.gitbook.io](https://pwicherski.gitbook.io/testowanie-oprogramowania/)
+- [testerka.pl]](http://testerka.pl/blog/)
 # Grupy na Facebooku
 - [Testowanie oprogramowania](https://www.facebook.com/groups/TestowanieOprogramowania)
 - [Tester oprogramowania - wsparcie na starcie](https://www.facebook.com/groups/testeroprogramowania)
