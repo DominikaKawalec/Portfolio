@@ -1,6 +1,6 @@
 # Portfolio
 # O mnie
-Nazywam się Dominika Kawalec. Ukończyłam studia magisterskie o profilu Finanse i rachunkowość na Uniwersytecie Marii Curie-Skłodowskiej w Lublinie oraz licencjat o profilu Rachunkowość i controlling na Uniwersytecie Ekonomicznym w Krakowie. W 2021 r. zaczęłam interesować się branżą IT i rozpoczęłam naukę w zakresie testowania oprogramowania. Moim celem jest pozyskanie pierwszego komercyjnego doświadczenia zawodowego jako tester oprogramowania. W portfolio dzielę się moim doświadczeniem oraz materiałami, które opracowuje podczas nauki.
+Nazywam się Dominika Kawalec. Ukończyłam studia magisterskie o profilu *Finanse i rachunkowość* na Uniwersytecie Marii Curie-Skłodowskiej w Lublinie oraz licencjat o profilu *Rachunkowość i controlling* na Uniwersytecie Ekonomicznym w Krakowie. W 2021 r. zaczęłam interesować się branżą IT i rozpoczęłam naukę w zakresie testowania oprogramowania. Moim celem jest pozyskanie pierwszego komercyjnego doświadczenia zawodowego jako tester oprogramowania. W portfolio dzielę się moim doświadczeniem oraz materiałami, które opracowuje podczas nauki.
 # Narzędzia
 - TestLink -  narzędzie do zarządzania testami
 - Redmine - narzędzie do zarządzania projektami i śledzenia problemów
@@ -11,8 +11,8 @@ Nazywam się Dominika Kawalec. Ukończyłam studia magisterskie o profilu Finans
 - Screenpresso - narzędzie do przechwytywania ekranu i jego późniejszej obróbki
 - Bug Magnet - asystent testów eksploracyjnych
 - Generatory danych (https://danetestowe.pl/generator, http://walidator.testerzy.pl/)
-- Microsoft Excel - arkusz kalkulacyjny
-- Solver - dodatek do Excela umożliwiający przeprowadzenie analizy warunkowej
+- MS Excel - arkusz kalkulacyjny
+- Solver - dodatek do MS Excel umożliwiający przeprowadzenie analizy warunkowej
 # Umiejętności techniczne
 - Tworzenie scenariuszy i przypadków testowych na podstawie wymagań
 - Wykonywanie testów w oparciu o scenariusze i przypadki testowe
@@ -21,7 +21,7 @@ Nazywam się Dominika Kawalec. Ukończyłam studia magisterskie o profilu Finans
 - Zgłaszanie błędów
 - Podstawowe zarządzanie projektami w Redmine
 - Tworzenie podstawowych zapytań SQL
-- Podstawowa wiedza z zakresu działania Git i Github
+- Podstawowa wiedza z zakresu działania Git i serwisu Github
 - Tworzenie diagramów
 - SCRUM
 - Obsługa MS Excel (tworzenie podstawowych formuł, formatowanie danych, analiza danych, tworzenie tabel przestawnych)
