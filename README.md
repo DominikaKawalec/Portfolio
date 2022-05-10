@@ -45,9 +45,9 @@ Nazywam się Dominika Kawalec. Ukończyłam studia magisterskie o profilu Finans
 - [testerzy.pl](https://testerzy.pl/)
 - [remigiuszbednarczyk.pl](https://remigiuszbednarczyk.pl)
 # Grupy na Facebooku
-- Testowanie oprogramowania
-- Tester oprogramowania - wsparcie na starcie
-- ISTQB - egzaminy, pytania, testy
+- [Testowanie oprogramowania](https://www.facebook.com/groups/TestowanieOprogramowania)
+- [Tester oprogramowania - wsparcie na starcie](https://www.facebook.com/groups/testeroprogramowania)
+- [ISTQB - egzaminy, pytania, testy](https://www.facebook.com/groups/194288250951242)
 # Aplikacje do ćwiczenia testowania
 - [Mr Buggy2](http://demo.mrbuggy2.testarena.pl/)
 - [Testing Challenges](http://testingchallenges.thetestingmap.org/)
