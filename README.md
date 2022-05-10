@@ -46,7 +46,7 @@ Nazywam się Dominika Kawalec. Ukończyłam studia magisterskie o profilu *Finan
 - [testerzy.pl](https://testerzy.pl/)
 - [remigiuszbednarczyk.pl](https://remigiuszbednarczyk.pl)
 - [pwicherski.gitbook.io](https://pwicherski.gitbook.io/testowanie-oprogramowania/)
-- [testerka.pl]](http://testerka.pl/blog/)
+- [testerka.pl](http://testerka.pl/blog/)
 # Grupy na Facebooku
 - [Testowanie oprogramowania](https://www.facebook.com/groups/TestowanieOprogramowania)
 - [Tester oprogramowania - wsparcie na starcie](https://www.facebook.com/groups/testeroprogramowania)
