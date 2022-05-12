@@ -29,8 +29,8 @@ Nazywam się Dominika Kawalec. Ukończyłam studia magisterskie o profilu *Finan
 # Kursy
 - Szkolenie “Zostań Testerem” organizowane przez Sii Training Practice
 # Certyfikaty
-- ISTQB Certified Tester Foundation Level - No17672/CTFL/2022
-- Certyfikat uczestnictwa w szkoleniu “Zostań Testerem” organizowanym przez Sii Training Practice
+- [ISTQB Certified Tester Foundation Level - No17672/CTFL/2022]()
+- [Certyfikat uczestnictwa w szkoleniu “Zostań Testerem” organizowanym przez Sii Training Practice](https://drive.google.com/drive/folders/1pDORSUsvrFhpJVE7_3q6t0qi6Un_ge0t?usp=sharing)
 # Książki
 - R. Pawlak "Testowanie oprogramowania. Podręcznik dla początkujących"
 - A. Roman, L. Stapp "Certyfikowany tester ISTQB. Poziom podstawowy"
